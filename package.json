@@ -1,0 +1,12 @@
+{
+  "name": "spotify-api-test",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "spotify-web-api-js": "^1.5.0"
+  },
+  "scripts": {
+    "start": "http-server"
+  }
+}
